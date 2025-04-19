@@ -1,0 +1,44 @@
+{
+    "card_holder": "John Doe",
+    "card_number": "XXXX-XXXX-XXXX-1234",
+    "statement_date": "2025-04-01",
+    "transactions": [
+      {
+        "date": "2025-03-01",
+        "description": "Amazon Purchase",
+        "amount": 200.75
+      },
+      {
+        "date": "2025-03-03",
+        "description": "Starbucks",
+        "amount": 5.50
+      },
+      {
+        "date": "2025-03-05",
+        "description": "Grocery Store",
+        "amount": 45.20
+      },
+      {
+        "date": "2025-03-10",
+        "description": "Electricity Bill",
+        "amount": 150.00
+      },
+      {
+        "date": "2025-03-15",
+        "description": "Netflix Subscription",
+        "amount": 15.99
+      },
+      {
+        "date": "2025-03-18",
+        "description": "Fuel",
+        "amount": 60.00
+      },
+      {
+        "date": "2025-03-22",
+        "description": "Restaurant",
+        "amount": 70.25
+      }
+    ],
+    "total_due": 547.69
+  }
+  
